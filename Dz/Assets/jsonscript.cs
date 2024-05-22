@@ -26,7 +26,6 @@ public class jsonscript : MonoBehaviour
         }
     }
 
-    [System.Serializable]
     public class Data
     {
         public string text;
